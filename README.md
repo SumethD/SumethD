@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 👋 Hello there! I'm Sumeth Lokuliyana, a third-year student at RMIT University in Australia, pursuing a degree in Computer Science. My passion lies in the realms of artificial intelligence, machine learning, and data science. Fascinated by the endless possibilities that these fields offer, I am dedicated to expanding my knowledge and skills to contribute meaningfully to the world of technology. I love exploring innovative solutions to complex problems and am always eager to stay up-to-date with the latest advancements in AI. Feel free to explore my GitHub repositories, where I bring my enthusiasm for coding and curiosity about intelligent systems to life.
 
 
@@ -21,4 +21,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SumethD&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
